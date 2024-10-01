@@ -2,7 +2,7 @@
   "name": "lipu-app",
   "private": true,
   "author": "Piggy <piggynl@outlook.com>",
-  "license": "GPL-3.0-or-later",
+  "license": "GPL-3.0",
   "packageManager": "pnpm@9.11.0",
   "type": "module",
   "scripts": {
