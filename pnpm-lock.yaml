@@ -17,9 +17,6 @@ importers:
       react-dom:
         specifier: ^18.3.1
         version: 18.3.1(react@18.3.1)
-      vike-cloudflare:
-        specifier: ^0.1.2
-        version: 0.1.2(vike@0.4.197(react-streaming@0.3.43(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(vite@5.4.8))(vite@5.4.8)
       vike-react:
         specifier: ^0.5.7
         version: 0.5.7(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vike@0.4.197(react-streaming@0.3.43(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(vite@5.4.8))
@@ -45,6 +42,9 @@ importers:
       vike:
         specifier: ^0.4.197
         version: 0.4.197(react-streaming@0.3.43(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(vite@5.4.8)
+      vike-cloudflare:
+        specifier: ^0.1.2
+        version: 0.1.2(vike@0.4.197(react-streaming@0.3.43(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(vite@5.4.8))(vite@5.4.8)
       vite:
         specifier: ^5.4.8
         version: 5.4.8
